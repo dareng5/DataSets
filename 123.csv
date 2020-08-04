@@ -1,0 +1,71 @@
+,month,park_borough,simplified_encounter_type,count
+0,April,Bronx,No Encounter,1603
+1,April,Bronx,Patrons in Closed Area,72
+2,April,Bronx,Social Distancing,125
+3,April,Brooklyn,No Encounter,601
+4,April,Brooklyn,Patrons in Closed Area,100
+5,April,Brooklyn,Social Distancing,91
+6,April,Manhattan,No Encounter,1298
+7,April,Manhattan,Patrons in Closed Area,67
+8,April,Manhattan,Social Distancing,245
+9,April,Queens,No Encounter,1166
+10,April,Queens,Patrons in Closed Area,61
+11,April,Queens,Social Distancing,89
+12,April,Staten Island,No Encounter,1139
+13,April,Staten Island,Patrons in Closed Area,102
+14,April,Staten Island,Social Distancing,119
+15,August,Bronx,No Encounter,92
+16,August,Bronx,Social Distancing,1
+17,August,Brooklyn,No Encounter,53
+18,August,Brooklyn,Social Distancing,6
+19,August,Manhattan,No Encounter,133
+20,August,Manhattan,Social Distancing,12
+21,August,Queens,No Encounter,90
+22,August,Queens,Social Distancing,4
+23,August,Staten Island,No Encounter,99
+24,August,Staten Island,Social Distancing,2
+25,July,Bronx,No Encounter,1534
+26,July,Bronx,Patrons in Closed Area,9
+27,July,Bronx,Social Distancing,19
+28,July,Brooklyn,No Encounter,1135
+29,July,Brooklyn,Patrons in Closed Area,20
+30,July,Brooklyn,Social Distancing,81
+31,July,Manhattan,No Encounter,1760
+32,July,Manhattan,Patrons in Closed Area,4
+33,July,Manhattan,Social Distancing,201
+34,July,Queens,No Encounter,1598
+35,July,Queens,Patrons in Closed Area,9
+36,July,Queens,Social Distancing,57
+37,July,Staten Island,No Encounter,1707
+38,July,Staten Island,Patrons in Closed Area,2
+39,July,Staten Island,Social Distancing,72
+40,June,Bronx,No Encounter,2671
+41,June,Bronx,Patrons in Closed Area,246
+42,June,Bronx,Social Distancing,159
+43,June,Brooklyn,No Encounter,966
+44,June,Brooklyn,Patrons in Closed Area,340
+45,June,Brooklyn,Social Distancing,51
+46,June,Manhattan,No Encounter,1708
+47,June,Manhattan,Patrons in Closed Area,107
+48,June,Manhattan,Social Distancing,266
+49,June,Queens,No Encounter,1412
+50,June,Queens,Patrons in Closed Area,246
+51,June,Queens,Social Distancing,167
+52,June,Staten Island,No Encounter,2068
+53,June,Staten Island,Patrons in Closed Area,72
+54,June,Staten Island,Social Distancing,75
+55,May,Bronx,No Encounter,2576
+56,May,Bronx,Patrons in Closed Area,269
+57,May,Bronx,Social Distancing,238
+58,May,Brooklyn,No Encounter,1126
+59,May,Brooklyn,Patrons in Closed Area,385
+60,May,Brooklyn,Social Distancing,96
+61,May,Manhattan,No Encounter,2249
+62,May,Manhattan,Patrons in Closed Area,144
+63,May,Manhattan,Social Distancing,408
+64,May,Queens,No Encounter,1554
+65,May,Queens,Patrons in Closed Area,194
+66,May,Queens,Social Distancing,219
+67,May,Staten Island,No Encounter,2185
+68,May,Staten Island,Patrons in Closed Area,123
+69,May,Staten Island,Social Distancing,240
